@@ -2,7 +2,7 @@
 
 I'm Fabiano [fa\.biˈɐ.nu] and welcome to my GitHub profile!
 
-I'm a highly motivated Professional Msc Student in Electrical Engineering at University of Brasília - UnB/Brazil. My research focuses on the use of Machine Unlearning (MU) techniques in large language model (LLM) to mitigate biases with the aim of promoting safety and fairness in AI applications and with practical implications in several sectors.
+I'm a highly motivated Professional Msc Student in Electrical Engineering at University of Brasília - UnB/Brazil. My research focuses on the use of Machine Unlearning (MU) techniques in large language model (LLM) to mitigate biases with the aim of promoting safety and fairness in AI applications and with practical implications in several areas.
 
 <!--
 **fabianumfalco/fabianumfalco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
