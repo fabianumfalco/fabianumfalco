@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Fabiano Falcão
+## Hi there 👋 I'm Fabiano Falcão [fa\.biˈɐ.nu fawˈkɐ̃w̃]
 
 <!--
 **fabianumfalco/fabianumfalco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
