@@ -31,4 +31,4 @@ I'm passionate about Artificial Intelligence (AI) and Software Engineering (SE).
 
 ![Fabiano Falcao's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianumfalco&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=default)
 
-> NOTE: Available ranks on GitHub stats are S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone).
+> NOTE: Available ranks on GitHub Stats Card are S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone).
