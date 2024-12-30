@@ -29,4 +29,4 @@ I'm passionate about Artificial Intelligence (AI) and Software Engineering (SE).
   - LLM Unlearning.
 
 
-![Fabiano Falcao's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianumfalco&show_icons=true)
+![Fabiano Falcao's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianumfalco&show_icons=true&theme=blue-green)
