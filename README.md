@@ -31,7 +31,7 @@ I'm passionate about Artificial Intelligence (AI) and Software Engineering (SE).
 ---
 
 ### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fabianofalcao/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fabiano-falcao/)
 [![Website](https://img.shields.io/badge/-Website-34a853?style=flat&logo=Google-Chrome&logoColor=white)](https://fabianumfalco.github.io/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:fabianumfalco@gmail.com)
 
