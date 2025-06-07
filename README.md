@@ -17,18 +17,19 @@ Here are some ideas to get you started:
 
 I'm Fabiano [fa\.biˈɐ.nu] and welcome to my GitHub profile!
 
-I'm passionate about Artificial Intelligence (AI) and Software Engineering (SE).
+I am an experienced Software Engineer and Software Project Manager. And since 2018 I have also become an AI Engineer/Researcher.
 
-🔭 I’m currently working on the development and maintenance of Java-based software for the <a href="https://www2.camara.leg.br/english" target="_blank">Chamber of Deputies of Brazil</a>.
+🔭 I’m currently working on the development and maintenance of Java-based software for the <a href="https://www2.camara.leg.br/english" target="_blank">Chamber of Deputies of Brazil</a>, a federal legislative body comprising over <a href="https://www.camara.leg.br/transparencia/recursos-humanos" target="_blank">14,000 staff members</a>.
 
-🎓 I'm a highly motivated Student in in the <a href="https://ppee.unb.br/" target="_blank"> Professional Graduate Program in Electrical Engineering (PPEE)</a> at the <a href="https://international.unb.br/" target="_blank">University of Brasília (UnB)</a>, <a href="http://www.ene.unb.br/" target="_blank">Department of Electrical Engineering (ENE)</a>. My research focuses on the use of Machine Unlearning (MU) techniques in large language model (LLM) to mitigate biases with the aim of promoting safety and fairness in AI applications and with practical implications in several areas.
+🎓 I am in the last year of the <a href="https://ppee.unb.br/" target="_blank"> Professional Graduate Program in Electrical Engineering (PPEE)</a> at the <a href="https://international.unb.br/" target="_blank">University of Brasília (UnB)</a>, <a href="http://www.ene.unb.br/" target="_blank">Department of Electrical Engineering (ENE)</a>. 
 
-😄 In 2024, I obtained the <a href="https://aws.amazon.com/certification/certified-machine-learning-specialty/" target="_blank">AWS Certified Machine Learning Specialty</a> certification.
+😄 By the end of 2024, I obtained the <a href="https://aws.amazon.com/certification/certified-machine-learning-specialty/" target="_blank">AWS Certified Machine Learning Specialty</a> certification.
 
 🌱 I’m currently learning about:
-  - Bias and Fairness in Large Language Models;
-  - Machine Unlearning;
-  - LLM Unlearning.
+  - Large Language Models;
+  - Detection and Evaluation of Privacy and Data Security Risks in Source Code;
+  - Microservice Architecture;
+
 
 ---
 
