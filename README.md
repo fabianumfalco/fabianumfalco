@@ -36,7 +36,7 @@ I bring over 25 years of experience in software engineering, IT governance, tech
 
 I completed a **Professional Master's Degree in <a href="https://ppee.unb.br/" target="_blank">Electrical Engineering</a> at the <a href="https://international.unb.br/" target="_blank">University of Brasília (UnB)</a> in 2026**. My dissertation, *“Evaluating Architectural Strategies for Personal Data Detection in Java Source Code Using Transformer Classifiers and Large Language Models,”* examined approaches to detecting personal data in Java source code.
 
-My academic background also includes a Bachelor of Science (BS) in Computer Science, a specialist degree in Software Engineering, and an MBA in Leadership and Development of High Performance Teams. I earned the [**AWS Certified Machine Learning – Specialty**](https://aws.amazon.com/certification/certified-machine-learning-specialty/) certification in **2024**.
+My academic background also includes a Bachelor of Science (BS) in Computer Science, a specialist degree in Software Engineering, and an MBA in Leadership and Development of High Performance Teams. I earned the [AWS Certified Machine Learning – Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/) certification in **2024**.
 
 ## 📬 Connect
 
